@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joegamboa
-- 👀 I’m interested in Physics and Computer Science (specially the mix of both) 
+- 👀 I’m interested in Physics and Computer Science
 - 🌱 I’m currently learning Computer Science at IME-USP
 
 <!---
